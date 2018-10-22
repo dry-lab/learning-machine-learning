@@ -2,19 +2,8 @@
 title: Learning Machine Learning, session 1
 date: "2018-10-07 19:17"
 category: Dry-Lab
-published: true
-featured: false
 ---
 
-::: {.marginnote .smaller}
-## Keywords
-+ Learning
-+ Classification
-    + Supervised
-    + Unsupervised
-+ Training
-+ Datasets
-:::
 
 The first session is based on one of my early classes of 2016, available [on line](https://anaraven.bitbucket.io/slides/2016/cmb2/Class3.html).
 
@@ -22,8 +11,7 @@ To get the full idea, I recommend that, before looking at the class, you first r
 
 After reading it, *do you want to have perfect memory?* Why?
 
-::: marginnote
-## Project library
+# Project library
 I will keep a small library of relevant books on my office's bookshelf.
 These are some of the books:
 
@@ -32,8 +20,6 @@ These are some of the books:
 ![Good book in plain Python.](https://lh3.googleusercontent.com/_Zub5EZmjkasFV_uAmopLDZGvh8oHPB9XJK0DwU0eDxVly3xbf9P8cxvpL7uv-UE3Nw7ipYG-1HnTsho6UDZEpbB2xLk2_IP6XRph9CHmB5aGVANqgzbwJfZVlwPmtQqqcYQQe46aYM=w2400){height=300px}
 
 ![Also using Python, and _ad-hoc_ libraries such as NumPy, Pandas, and Scikit-learn.](https://lh3.googleusercontent.com/im4hfTJWWeHT2tIJjUu_wZznyw__6DkcO27RiRKQP2ECXUrRmmXkYD96K10FH7hP1xDlhumCO6iks3POPIQnCqkwOp-N-wbsB-JGDOhHGSNpPAvhbMew6B9Lv6jV9B7flzO9yCXwh7g=w2400)
-
-:::
 
 The idea we discuss in these slides is that *learning is forgetting*. Not in the sense of forgetting memories, but forgetting details. In the Borges' story, the protagonists has perfect memory and cannot forget any detail. Therefore, Borges concludes, he is incapable of thinking, or of making abstractions.
 
@@ -53,17 +39,3 @@ Can Kandemir, one of our co-learners, proposed that we use GitHub for our code. 
 
 By coincidence, I had just listened to a podcast that spoke about GitHub and his impact. The speaker is Seth Godin, one of the thinkers I'm following nowadays. The podcast episode also touches other subjects about how technology is changing our world, including Science. You can hear the podcast episode at <https://www.akimbo.me/blog/s-2-e-9-distribution-and-cultural-destiny>.
 
-<style>
-.marginnote h2 {
-    margin: 0;
-    padding: 0;
-}
-.marginnote ul, .marginnote p {
-    margin-top: 0;
-}
-figcaption {
-    width: 95%;
-    padding-bottom: 1.2em;
-    text-align: right;
-}
-</style>

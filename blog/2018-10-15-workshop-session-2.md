@@ -6,14 +6,6 @@ published: true
 featured: false
 ---
 
-::: {.marginnote .smaller}
-## Keywords
-+ Git
-+ Github
-+ Kmeans clustering
-+ Gene expression Datasets
-:::
-
 The second session of the workshop focused mainly on collaboration tools that we will use, and we saw our first machine learning application.
 
 # Git and GitHub
@@ -40,17 +32,3 @@ For the next session we have two challenges:
 
 See you there!
 
-<style>
-.marginnote h2 {
-    margin: 0;
-    padding: 0;
-}
-.marginnote ul, .marginnote p {
-    margin-top: 0;
-}
-figcaption {
-    width: 95%;
-    padding-bottom: 1.2em;
-    text-align: right;
-}
-</style>

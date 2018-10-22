@@ -5,31 +5,23 @@ subtitle: >-
 date: '2018-10-06 13:25'
 category: Dry-Lab
 alias: Machine Workshop
-published: true
-featured: false
-summary: >
-  We have a lot of data. How can we understand it? How can we extract meaningful
+---
+> We have a lot of data. How can we understand it? How can we extract meaningful
   insight from it? In many places around the globe, researchers in academia and
   industry are using <em>Machine Learning</em> to answer these questions. Artificial
   Intelligence tools provide big advantages for the scientist that use them.
   This workshop (also known as "The Machine Atelier") aims to update us into the current state-of-the-art
   computational and mathematical tools that are useful in Molecular Biology,
   Physics, and other sciences.
----
-::: intro
-{{page.summary}}
-:::
  
 The challenge for contemporary science is moving from *data production* to *knowledge discovery*. Ideas such as *Data Mining* and *Big Data* are popular today. We can track their origin to more than 30 years ago, when Artificial Intelligence and Neural Networks were being developed. Today computers are much more powerful (by several orders of magnitude) and data is abundant. Collecting and storing data is cheap and easy.
 
 Although these techniques can be used in a wide variety of subjects, we will focus on scientific applications, mainly in Molecular Biology and in Physics
 
 # Work plan
-::: marginnote
 
-![The textbook we will follow](https://covers.oreillystatic.com/images/0636920052289/lrg.jpg){width=300px}
+![The textbook we will follow](https://covers.oreillystatic.com/images/0636920052289/lrg.jpg)
 
-:::
 
 We meet every Monday at 17:00 in the MBG II room, at the Science Faculty. Bring your computer.
 We will use R and Python, and discuss the mathematics behind the tools.
