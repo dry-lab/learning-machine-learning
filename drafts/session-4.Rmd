@@ -1,0 +1,140 @@
+---
+title: "LML session 4"
+author: "Andres Aravena"
+date: "2018-10-22 15:58"
+publish: true
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval=FALSE)
+knitr::opts_knit$set(root.dir = "/Users/anaraven/Dropbox/2015/INRIA/Lombarde/Example/m3d.mssm.edu/E_coli_v4_Build_6")
+```
+
+# How do we know when two objects are similar?
+## Distance: a way to measure differences
+Let us put a number to measure similarity
+
++ The **distance** of 2 things is a non-negative number
++ smaller distance means more similar
++ distance is zero only when things are equal
+  $$\mathrm{dist}(x,y)=0\iff x=y$$
++ symmetry: $\mathrm{dist}(x,y)=\mathrm{dist}(y,x)$
++ Triangular inequality
+$$\mathrm{dist}(x,z)\leq\mathrm{dist}(x,y)+\mathrm{dist}(y,z)$$
+
+## Example of distance: $(x-y)^2$
+Here $x$,$y$,$z$ are real numbers, positive or negative.
+
+If $\mathrm{dist}(x,y)=(x-y)^2$ then:
+
++ $\mathrm{dist}(x,y)$ is never negative
++ $\mathrm{dist}(x,x)=0$ for any $x$
++ $\mathrm{dist}(x,y)=\mathrm{dist}(y,x)$
++ $\mathrm{dist}(x,z)\leq\mathrm{dist}(x,y)+\mathrm{dist}(y,z)$
+
+So this is a valid *distance*
+
+**Exercise:** prove it
+
+# Measuring distance between vectors
+## Euclidean Distance
++ square root of the sum of squares
++ has a geometrical sense
++ “expensive” in computation time
+
+If $x$ and $y$ are vectors of length $n$, then
+$$\mathrm{dist}_2(x,y)=\sqrt{(x_1-y_1)^2+\cdots +(x_n-y_n)^2}$$
+
+## Manhattan Distance
+Sum of absolute values
+$$\mathrm{dist}_1(x,y)=\vert x_1-y_1\vert +\cdots +\vert x_n-y_n\vert$$
+Different geometrical meaning
+
+## Why "Manhattan"? {#manh .no-gap}
+![](../../../images/cmb2/image4.png)
+
+## Tchebychev Distance (Maximal)
+$$\mathrm{dist}_∞ = max(\vert x_1-y_1\vert ,\ldots,\vert x_n-y_n\vert )$$
+Only the biggest one matters
+
+## Example
+$$X = (0,0),   Y = (100,1)$$
+$$\mathrm{dist}_1(X,Y) = 101$$
+$$\mathrm{dist}_2(X,Y) = 100.005$$
+$$\mathrm{dist}_\infty(X,Y) = 100$$
+
+## Example
+$$X = (10,1),   Y = (100,1)$$
+$$\mathrm{dist}_1(X,Y) = 90$$
+$$\mathrm{dist}_2(X,Y) = 90$$
+$$\mathrm{dist}_\infty(X,Y) = 90$$
+
+## Hamming distance
+To compare two text or sequences _of equal length_ we count 
+
++ the number of positions at which the corresponding symbols are different
++ the minimum number of substitutions required to change one string into the other
++ the minimum number of errors that could have transformed one string into the other
+
+## Jaccard distance
+To compare sets
+
+# Dissimilarity
+## Like distance, but not the same
+
+Distance | Dissimilarity
+---------|--------------
+non-negative number | non-negative number
+$\mathrm{dist}(x,y)=0\iff x=y$ | distance of a thing to itself is zero $$\mathrm{dist}(x,x)=0$$
+symmetry | symmetry
+Triangular inequality | Triangular inequality
+
+## Example: based on correlation
+
+## Hierarchical Clustering {#hcl .columns-2}
+bottom up: joining one by one
+
++ if $\mathrm{dist}(x, y)$ is the smallest distance, we join $x$ and $y$
++ we create cluster $C$
+
+![](../../../images/cmb2/image5.png)
+
+## Now we have to measure the distance between elements and clusters
+
+How to measure distance between $x$ and $C$?
+
+How to measure distance between cluster $C_1$ and $C_2$?
+
+
+## Average Linkage
+$$\mathrm{dist}(x, C)=\mathrm{mean} (\mathrm{dist}(x, y): y \in C)$$
+$$\mathrm{dist}(C_1, C_2)=\mathrm{mean} (\mathrm{dist}(x, y): x \in C_1, y \in C_2)$$
+Distance between two clusters is the distance between their mass centers
+
+## Single Linkage
+$$\mathrm{dist}(x, C)=\min(\mathrm{dist}(x, y): y \in C)$$
+$$\mathrm{dist}(C_1, C_2)=\min(\mathrm{dist}(x, y): x \in C_1, y \in C_2)$$
+Distance between two clusters is the smallest distance between their elements
+
+## Complete Linkage
+$$\mathrm{dist}(x, C)=\max(\mathrm{dist}(x, y): y \in C)$$
+$$\mathrm{dist}(C_1, C_2)=\max(\mathrm{dist}(x, y): x \in C_1, y \in C_2)$$
+Distance between two clusters is the maximal distance between their elements
+
+
+
+## Hierarchical clustering {.no-gap}
+```{r tree}
+distance <- dist(e_coli,)
+tree <- hclust(distance, method = "complete")
+plot(tree, labels = FALSE)
+```
+
+## Homework
+0. Why it is called "hierarchy"?
+1. do hierarchical clustering in R
+2. do hierarchical clustering in Python
+3. How do we assign labels? Where we put the threshold for different clusters?
+4. explain the other distances and linkage methods
+5. why Hamming==Tanimoto==Jaccard==Manhattan
