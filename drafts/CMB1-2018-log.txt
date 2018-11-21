@@ -1,0 +1,285 @@
+class09	332e2d3daf3ee60af0a690e0582ac984	.jpeg	Mon, 15 Oct 2018 19:35:27 +0300	MARIAM ANTAR <mariamantar@ogr.iu.edu.tr>	WhatsApp Image 2018-10-15 at 19.29.52.jpeg	16678945e52c492f
+class09	50115f5f3a70861204596f12aed8f7ce		Mon, 15 Oct 2018 15:03:03 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	.rmd	166779bdcff0f0f7
+class09	32e0f23a4a15fb0a539c23f0f6249e3a	.Rmd	Mon, 15 Oct 2018 15:02:16 +0300	"Ramal Hüseynov" <hramal45@gmail.com>	survey.Rmd	166779b27af62acd
+class09	f10d1143760b92fea93c23ae64d4b129	.Rmd	Mon, 15 Oct 2018 15:01:22 +0300	"Ahmet Bahçeci" <ahb937@gmail.com>	class 9 application.Rmd	166779ab77f9a33c
+class09	736791f557b34ae834eb915781ad899b	.Rmd	Mon, 15 Oct 2018 14:58:56 +0300	Oguzhan Yeni <mbgoguznew@gmail.com>	oguzhan_yeni.Rmd	16677987c0673d41
+class09	2084fea24c522f3ab863077df38dd701	.Rmd	Mon, 15 Oct 2018 14:57:32 +0300	Zehra Kezer <zehrakezer99@gmail.com>	class 9.Rmd	1667796d343a9e46
+class09	9d3916b6dacd17e1c344a7870644fc3d	.html	Mon, 15 Oct 2018 11:57:41 +0000	"meral gök" <meralmgk@hotmail.com>	Class9.html	1667796d182ffb66
+class09	541a3bb31ee7c1d17c84776e9373885b	.Rmd	Mon, 15 Oct 2018 14:56:23 +0600	aziz erden <azzrdn@gmail.com>	15-10-2018.Rmd	1667795fc7af940e
+class09	96b6782bfeec3bc8fcc58f95ad901246	.Rmd	Mon, 15 Oct 2018 11:56:39 +0000	"evrim özdemir" <evrimozdemir1997@outlook.com>	class9.Rmd	1667795d9e4bfe6e
+class09	fb7459170e372fd94803410b03b09094	.Rmd	Mon, 15 Oct 2018 14:56:28 +0300	"Dilem Avşar" <d.ilume9@gmail.com>	computingmbgpractise.Rmd	1667795d3c7eec92
+class09	928930bd90ad40fe802f11fb54228fe4	.Rmd	Mon, 15 Oct 2018 14:54:34 +0300	Gizem YILDIRIM <agizemgy@gmail.com>	class9.Rmd	16677941b5c97fce
+class09	9b511096e022846338ca35b2dd7b09ad	.Rmd	Mon, 15 Oct 2018 11:54:37 +0000	"Aslıhan Gizem Bilgin" <aslihangizem@hotmail.com>	15,10,2018.Rmd	1667793fb3b6136b
+class09	ed38811e774b2c6e880cc634229fa09c	.rmd	Mon, 15 Oct 2018 14:53:54 +0300	"Şule İnan" <suleinan.1997@gmail.com>	class9.rmd	16677937f0548384
+class09	d9bbbcddc65a4d832b440e4f39414288	.Rmd	Mon, 15 Oct 2018 14:53:23 +0300	"Gizem Kılıç" <gizemkl98@gmail.com>	class9.Rmd	166779302e5b063e
+class09	224f90890045d2ce76c324c9871d3960	.Rmd	Mon, 15 Oct 2018 14:52:53 +0300	Ipek Uzun <ipek.uzun10@gmail.com>	Class 9 İpek Uzun.Rmd	1667792910b80673
+class09	2703423bbc09880628671c6b0625b98d	.Rmd	Mon, 15 Oct 2018 14:52:51 +0300	Farida Ismailova <ismailofarida@gmail.com>	Untitled.Rmd	166779286c451b1e
+class09	742cdcd9ce68770b9811465f4ca9d641	.Rmd	Mon, 15 Oct 2018 14:52:50 +0300	"Sümeyye Onat" <sumeyyeonat97@gmail.com>	class 9.Rmd	16677928048ee60c
+class09	4ade115f94376b1567071f4e59f1f61a	.Rmd	Mon, 15 Oct 2018 14:52:23 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	class9.Rmd	16677921b77b160c
+class09	4b3efaeeeebce0da831baf4b3b967086	.jpg	Mon, 15 Oct 2018 13:50:06 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	20181015_133212.jpg	16677597cd06cf6b
+class09	cc974385721d7ac0b62dc20043cb183b	.txt 1	Tue, 16 Oct 2018 08:28:43 +0300	"Büşra Güler" <biobg52@gmail.com>	survey1-tidy.txt 1	1667b59326ea1c8f
+hw2	a40e3ab8f848468203a74566d0ab49b7	.Rmd	Tue, 25 Sep 2018 00:02:13 +0000	aziz erden <azzrdn@gmail.com>	Homework 1.Rmd	1660d63cc1b43a23
+hw2	91ab30c4ec9992c6c5de4e17ac38b736	.Rmd	Mon, 24 Sep 2018 22:41:42 +0300	Zehra Kezer <zehrakezer99@gmail.com>	homework.Rmd	1660d1a3c091e866
+hw2	26e51a6aef78c7904ecbcbf4e0690e39	.html	Mon, 24 Sep 2018 18:58:11 +0000	"meral gök" <meralmgk@hotmail.com>	Homework-1.html	1660cf24221860d5
+hw2	c7148b3426298f3d90664c6fc621d464	.Rmd	Mon, 24 Sep 2018 18:58:11 +0000	"meral gök" <meralmgk@hotmail.com>	Homework-1.Rmd	1660cf24221860d5
+hw2	8b4858ae31299bac15235262e2228977	.Rmd	Tue, 25 Sep 2018 21:37:33 +0300	Oguzhan Yeni <mbgoguznew@gmail.com>	How_to_Solve_It.Rmd	1661206340848f23
+hw2	da3e34241d781f6346eb8e5901d355e0	.rmd	Tue, 25 Sep 2018 21:16:23 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	how to solve it.rmd	16611f276700e656
+hw2	637e2e4d97c45c6451a436eed40a076d	.html	Thu, 27 Sep 2018 12:44:25 +0300	Ahmet Yardan <ahmetyardan7@gmail.com>	ahmetyardan.html	1661a6a7bacd9874
+hw2	ca5f8ad682754c63729399a447752d76	.rmd	Thu, 27 Sep 2018 12:44:25 +0300	Ahmet Yardan <ahmetyardan7@gmail.com>	ahmetyardan.rmd	1661a6a7bacd9874
+hw2	648e2b0da4823a71775fcdff928ed4e9	.Rmd	Thu, 27 Sep 2018 09:12:30 +0000	"büşra perkkara" <bus_pk@outlook.com>	Homework.Rmd	1661a4d1999e8d6d
+hw2	70c632a50208f0988b89e3aa2cf983f0	.html	Thu, 27 Sep 2018 12:01:20 -0200	Arda Keles <ardakeles98@gmail.com>	howtosolveit.html	1661a431609f42ef
+hw2	4e4e93fccd96f08d14a761dacd223f2a	.rmd	Thu, 27 Sep 2018 11:53:47 -0200	Arda Keles <ardakeles98@gmail.com>	howtosolveit.rmd	1661a3c2b6a90a5b
+hw2	33784e1ec151fc88b3d4201f4dcbc218	.html	Thu, 27 Sep 2018 11:50:23 +0300	"Şirin Selek" <sirinselek2@gmail.com>	şirinselek.html	1661a38fe5124e25
+hw2	b3df6f7ff4379299d4cd55050c076fcc	.rmd	Thu, 27 Sep 2018 11:50:23 +0300	"Şirin Selek" <sirinselek2@gmail.com>	şirinselek.rmd	1661a38fe5124e25
+hw2	e2fececf72290915e56bb0ee4076140a	.rmd	Thu, 27 Sep 2018 11:31:02 +0300	"Gizem Kılıç" <gizemkl98@gmail.com>	cmb homework.rmd	1661a274b458841f
+hw2	f0cc818a3fef7bb45f6d6b5f9b8b93b9	.Rmd	Thu, 27 Sep 2018 11:30:41 +0300	"Türkan Hazal Turan" <thazturan@gmail.com>	Turkan Hazal Turan.Rmd	1661a26fbe3f72df
+hw2	9a3e2d2f722742430cab18e48ab22118	.Rmd	Thu, 27 Sep 2018 11:09:29 +0300	"Ramal Hüseynov" <hramal45@gmail.com>	how to solve.Rmd	1661a13918b2e482
+hw2	fa29680b771f8fe8a506f6cbdc0cccd7	.rmd	Thu, 27 Sep 2018 10:37:30 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	how to solve it.rmd	16619f64656581fe
+hw2	5d611660fbbfc73e612a8cf9840443c6	.Rmd	Thu, 27 Sep 2018 10:35:28 +0300	"Büşra Güler" <biobg52@gmail.com>	how to solve it.Rmd	16619f46a5830a1a
+hw2	00b50cb7359d3c5e86433c85b5189cab	.html	Thu, 27 Sep 2018 10:27:57 +0300	"Ceren Çolak" <cerenncolakkx@gmail.com>	CEREN.html	16619ed877d93946
+hw2	317c9fd6657ce29125ad8e3ba1ee6d71	.Rmd	Thu, 27 Sep 2018 10:27:57 +0300	"Ceren Çolak" <cerenncolakkx@gmail.com>	CEREN.Rmd	16619ed877d93946
+hw2	2cfdaa851213b91cb442eac9216ec904	.Rmd	Thu, 27 Sep 2018 10:27:10 +0300	"Büşra Güler" <biobg52@gmail.com>	how to solve it.Rmd	16619ecd2034cc92
+hw2	e1f000ec3ac721a733a48a466ec458f1	.Rmd	Thu, 27 Sep 2018 10:14:46 +0300	"Büşra Güler" <biobg52@gmail.com>	how to solve it.Rmd	16619e176a834428
+hw2	9dee42aa3c1c4502776e1dda0f45e34c	.jpg	Thu, 27 Sep 2018 10:06:24 +0300	"Büşra Güler" <biobg52@gmail.com>	20180927_095122.jpg	16619d9de02c671d
+hw2	33ca26e6f55650ab12e92e3fa1c5fdb8	.jpg	Thu, 27 Sep 2018 10:06:24 +0300	"Büşra Güler" <biobg52@gmail.com>	20180927_095133.jpg	16619d9de02c671d
+hw2	409ee7d2cbfb6ecd45f7bac3c792e122	.Rmd	Thu, 27 Sep 2018 08:33:07 +0300	"Samet Ebinç" <smtebinc@gmail.com>	first homework.Rmd	1661984666e4b797
+hw2	6d69f9a88818a86f0f2da79b52df654e	.html	Thu, 27 Sep 2018 01:35:44 +0300	Gizem <gizembaransel17@gmail.com>	homework.html	16617cd939686a53
+hw2	83907ae1826db8db6acf5afd1065c7f1	.rmd	Thu, 27 Sep 2018 01:35:44 +0300	Gizem <gizembaransel17@gmail.com>	homework.rmd	16617cd939686a53
+hw2	7bb4f4dbb7459f2ddc12ad6297e32f8f	.Rmd	Wed, 26 Sep 2018 20:39:16 +0000	"Aslıhan Gizem Bilgin" <aslihangizem@hotmail.com>	Computing Homework.Rmd	166179b818ccac6b
+hw2	aa6f518e52173bd08634c476b42aa4ad	.Rmd	Wed, 26 Sep 2018 23:15:21 +0300	"Berfin Tunç" <berfinsirintunc@gmail.com>	how to solve it.Rmd	166178640c0adb70
+hw2	dd9f4c067e1fb97a462c86b3e66cc0c7	.Rmd	Wed, 26 Sep 2018 23:12:50 +0300	"Büşra Kayın" <busra.kyn@gmail.com>	ToSolve.Rmd	1661783643b52cf6
+hw2	458cf2c8395423fbe9907dd4139aaab6		Wed, 26 Sep 2018 23:12:50 +0300	"Büşra Kayın" <busra.kyn@gmail.com>	.Rhistory	1661783643b52cf6
+hw2	b05254304bb4dedd96a1e187a0c3657c	.Rmd	Wed, 26 Sep 2018 22:44:57 +0300	"Şule İnan" <suleinan.1997@gmail.com>	cmd2.Rmd	1661769e63f7d4a7
+hw2	dcab5d076ebf78c2df77f305c90b8b1c	.Rmd	Wed, 26 Sep 2018 21:15:54 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	HOW TO SOLVE IT.Rmd	166171aa76aa951c
+hw2	efa352e8d77b9ad4cf5b3b37f64b40c9	.html	Wed, 26 Sep 2018 17:58:36 +0000	"evrim özdemir" <evrimozdemir1997@outlook.com>	Evrim ÖZDEMİR.html	166170864d10572d
+hw2	58a793f95d50f27002a209090ad62255	.Rmd	Wed, 26 Sep 2018 20:45:50 +0300	"Sümeyye Onat" <sumeyyeonat97@gmail.com>	HOMEWORK.Rmd	16616fcd19f40e34
+hw2	1c3ed721a6e365565ea59b340025215a	.Rmd	Wed, 26 Sep 2018 20:26:01 +0300	Ipek Uzun <ipek.uzun10@gmail.com>	homework.Rmd	16616ea9cdca5555
+hw2	a9299bf99af04c0d447fc2e4917fa021	.rmd	Wed, 26 Sep 2018 20:10:24 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	class.rmd	16616a57c26127c3
+hw2	c454b4a3fce6fa9679b45d683fab7cf8	.html	Wed, 26 Sep 2018 18:06:38 +0300	Farida Ismailova <ismailofarida@gmail.com>	"How to Solve it" Homework.html	166166b1f444417d
+hw2	a3b4f1062e7882c5856e636952d4b9e3	.Rmd	Wed, 26 Sep 2018 18:06:38 +0300	Farida Ismailova <ismailofarida@gmail.com>	"How to Solve It" Homework.Rmd	166166b1f444417d
+hw2	64cb5b96d36b3ac495a92ccfbcaa6904	.pdf	Wed, 26 Sep 2018 14:29:50 +0300	"şeyma ASYALI" <seymanurasya@gmail.com>	rfdwer.pdf	16615a4aa9b63aa1
+hw2	46a43afc6aa4a381536ce9ea4fe12953	.Rmd	Wed, 26 Sep 2018 14:29:50 +0300	"şeyma ASYALI" <seymanurasya@gmail.com>	rfdwer.Rmd	16615a4aa9b63aa1
+hw2	31eeb3f7558e2a8a6aac9bd5f625cb0b	.Rmd	Wed, 26 Sep 2018 14:29:34 +0300	Nur Mtl <mutlunursima37@gmail.com>	NURSİMA.Rmd	16615a4724beaabe
+hw2	95f74bec417cf227c2b7a470dcfc610b	.pdf	Wed, 26 Sep 2018 14:29:34 +0300	Nur Mtl <mutlunursima37@gmail.com>	NURSİMA.pdf	16615a4724beaabe
+hw2	ecbe98245d9ea2ebfe9f1dd995513600	.rmd	Wed, 26 Sep 2018 14:09:51 +0300	Bahadir Kasap <bahadirkasap97@gmail.com>	cmb.rmd	1661592564269b68
+hw2	088575631229ffed50ce3a7ae7dbf716	.png	Sun, 30 Sep 2018 23:26:00 -0200	Arda Keles <ardakeles98@gmail.com>	whathappensif.png	1662c29021a59c69
+hw2	9fb63386eab2e3f4167ae05e4b85d4a1	.Rmd	Sun, 30 Sep 2018 21:56:02 +0300	Gizem YILDIRIM <agizemgy@gmail.com>	gizem.Rmd	1662bd691d7d527d
+hw2	3b5e9d203b70d30387e21a81bf9bcfab	.Rmd	Fri, 28 Sep 2018 18:25:05 +0000	"evrim özdemir" <evrimozdemir1997@outlook.com>	0405160079.Rmd	166216d5c0dfe7e5
+hw2	6378a9148e84238eddbdad3b092ef134	.Rmd	Fri, 28 Sep 2018 13:18:01 +0300	"Rana İçöz" <h.ranaicozz@gmail.com>	HOW TO SOLVE İT.Rmd	1661faf9876d2358
+hw2	b3f60559b1779d5e9323d6319f5cdb9e	.Rmd	Fri, 28 Sep 2018 13:07:43 +0300	"Ahmet Bahçeci" <ahb937@gmail.com>	Homework.Rmd	1661fa62c5434c1f
+hw2	637012afc37000cfd51ca0dc99e2f59c	.html	Fri, 28 Sep 2018 13:04:38 +0300	"Rana İçöz" <h.ranaicozz@gmail.com>	HOW_TO_SOLVE_İT.html	1661fa3599b56be7
+hw2	64a4f19de7b0cc1b69665570ec592ee4	.Rmd	Fri, 28 Sep 2018 13:02:12 +0300	"samet güler" <sametguler464@gmail.com>	how do solve ıt.Rmd	1661fa1232bbebbb
+hw2	756734f2ff4b29440da375d2d5ab440c	.Rmd	Thu, 27 Sep 2018 19:09:10 +0300	"Buğra Ayhan" <bugrayhan1997@gmail.com>	Homework  2(Buğra AYHAN).Rmd	1661bcab822f932d
+hw2	8a8e01e0b7c92783019083fa406e3247	.Rmd	Thu, 27 Sep 2018 04:55:33 +0000	SEVDA AYDIN <sevda-20@windowslive.com>	Sevda.Rmd	1661961d6bcf883b
+midterm	27bbd392ae85938ff44025c57e8a712f	.Rmd	Wed, 7 Nov 2018 12:10:00 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	midterm.Rmd	166ed6fb58448926
+midterm	5e047dced87fb9bfe05643e4e728d571	.html	Wed, 7 Nov 2018 12:09:17 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	midterm.html	166ed6f0f77670fb
+midterm	eac0ff8dc368846342050a62829444e1	.Rmd	Wed, 7 Nov 2018 12:09:00 +0300	Esmer Zeynep Duru Badakal <ezdurubadakal@gmail.com>	Answer.Rmd	166ed6ec21392fbe
+midterm	5be215a31926b76f4701bca609e83f0f	.R	Wed, 7 Nov 2018 09:05:18 +0000	Abdulkadir Kalaz <abdulkadirkalaz96@hotmail.com>	answers.R	166ed6b3b80fc1c2
+midterm	a31af261e46fbce12e0ba5c43b0ceb5d	.Rmd	Wed, 7 Nov 2018 12:04:34 +0300	"Melik Özçelik" <melik.ial13@gmail.com>	0405170052.Rmd	166ed6ac4944194c
+midterm	e4ef7fae1e236ae68fc91e8f39d71189	.Rmd	Wed, 7 Nov 2018 12:04:12 +0300	"ilyas berktaş" <b.ilyas.44@gmail.com>	answers.Rmd	166ed6a6c95cddd8
+midterm	fc751fefb441265c6e51894797842dc5	.Rmd	Wed, 7 Nov 2018 12:04:00 +0600	aziz erden <azzrdn@gmail.com>	answers.Rmd	166ed6a1c4e4717d
+midterm	42bf367452254bc22cae127cabebce3b	.Rmd	Wed, 7 Nov 2018 08:56:31 +0000	yahya hajlawi <yahyahajlawi@hotmail.com>	ex.Rmd	166ed6331620da4e
+midterm	b8b9e06c80fd13a0bc809bb7455a2bc1	.html	Wed, 7 Nov 2018 11:28:53 +0300	"Çağatay Özulu" <cagatayozuluu@gmail.com>	Midterm_Exam.html	166ed4a1a3af0d86
+midterm	3d82c3e6e2bdf3deb78052dc84c175fc	.Rmd	Wed, 7 Nov 2018 12:10:45 +0300	"Yahya Yozbatıran" <yozbatiranyahya@gmail.com>	midterm1 0405160018.Rmd	166ed70607ba6ce5
+midterm	7ff68abf7aa88b4515c15d9ae56e32e1	.coşkun1	Wed, 7 Nov 2018 12:18:33 +0300	"ebru coşkun" <ebru.1997.mbg@gmail.com>	mitterm.exam.rmd.ebru.coşkun1	166ed778ade82f12
+midterm	5b08c3c56037eefb35dd3a2eaa3d74fb	.Rmd	Wed, 7 Nov 2018 12:21:33 +0300	Farida Ismailova <ismailofarida@gmail.com>	Midterm.Rmd	166ed7a4270fe9d1
+midterm	4d7ff456daf862d5780c7e4a95b1cef9	.Rmd	Wed, 7 Nov 2018 12:23:19 +0300	"Türkan Hazal Turan" <thazturan@gmail.com>	exam.Rmd	166ed7be04ad7b33
+midterm	c966b581d4f0a8ab6c315fbce740702a	.rmd	Wed, 7 Nov 2018 12:26:10 +0300	Ahmet Yardan <ahmetyardan7@gmail.com>	0405150053-Ahmet Yardan.rmd	166ed7e87bb1c277
+midterm	617e812aa616df2f42224f9b9250029e	.Rmd	Wed, 7 Nov 2018 12:24:56 +0300	"Gizem Kılıç" <gizemkl98@gmail.com>	midterm.Rmd	166ed7d590101572
+midterm	8f0de169804a794cd38e50b72bcfda23	.Rmd	Wed, 7 Nov 2018 12:26:41 +0300	Ali Yolcu <aliyolcuuu1@gmail.com>	answers.Rmd	166ed7ef84767dda
+midterm	ad27cd615915c7316e8821aa7da28cac	.R	Wed, 7 Nov 2018 09:31:13 +0000	"Nuh Emin Gül" <nuhemin@hotmail.com>	answer.R	166ed82f6057d259
+midterm	569495adabf331b8df73b37ff770285c	.Rmd	Wed, 7 Nov 2018 09:34:24 +0000	"meral gök" <meralmgk@hotmail.com>	0405160052.Rmd	166ed85f61a8fdad
+midterm	b831c419f2c1af2de60b067407492692	.Rmd	Wed, 7 Nov 2018 12:47:45 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	midterm.Rmd	166ed9241d28e1a8
+midterm	cc3ec2a7a025321f33b031b1431a59f2	.Rmd	Wed, 7 Nov 2018 12:47:16 +0300	"Büşra Güler" <biobg52@gmail.com>	midterm.Rmd	166ed91cccd12c19
+midterm	9533cf8f995264630290fafeddff7ef1	.Rmd	Wed, 7 Nov 2018 12:53:42 +0300	Zehra Kezer <zehrakezer99@gmail.com>	midterm cmb1.Rmd	166ed97baa39d90f
+midterm	25bb6896206520994b3a009cf778bad1	.Rmd	Wed, 7 Nov 2018 12:56:06 +0300	"Buğra Ayhan" <bugrayhan1997@gmail.com>	Midtern Exam.Rmd	166ed99e9dc06ee5
+midterm	8474032e65b9a022fb45d942a64017b7	.Rmd	Wed, 7 Nov 2018 12:55:46 +0300	damla gul <guldamlaa97@gmail.com>	v.Rmd	166ed999671038fb
+midterm	717068c954ad6a1d9f6e8c1a4c6f0916	.Rmd	Wed, 7 Nov 2018 12:58:00 +0300	Zehra Kezer <zehrakezer99@gmail.com>	midterm cmb1.Rmd	166ed9ba768d8695
+midterm	ef2d2f3d7136ff66b28a4645e591da1a	.Rmd	Wed, 7 Nov 2018 12:59:48 +0300	Oguzhan Yeni <mbgoguznew@gmail.com>	midterm.Rmd	166ed9da48f8ab31
+midterm	f7be3778d708312a0fca9a9b442ceba4	.Rmd	Wed, 7 Nov 2018 13:05:41 +0300	"Ceren Çolak" <cerenncolakkx@gmail.com>	midterm.Rmd	166eda2aa6f4ab39
+midterm	109bd531189978c434e2d5fa65475373	.Rmd	Wed, 7 Nov 2018 10:07:41 +0000	SEVDA AYDIN <sevda-20@windowslive.com>	SEVDA Midterm1.Rmd	166eda4543162013
+midterm	bb182b31103a5ee5826b76111cbb10e3	.Rmd	Wed, 7 Nov 2018 13:10:07 +0300	Furkan Tastan <tastanfurkan.06@gmail.com>	FURKAN.Rmd	166eda6bdfc4c36e
+midterm	6723d44561a7688596a7c8d413457811	.Rmd	Wed, 7 Nov 2018 13:10:44 +0300	"Andrés Aravena" <andres.aravena@gmail.com>	midterm.Rmd	166eda75042ad5a7
+midterm	913b1e45e4cb558c53a37f455d3fc33b	.Rmd	Wed, 7 Nov 2018 13:15:54 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	answers.Rmd	166edac0d8c5463d
+midterm	55d8b281cbefb54bb56c4eadc6ef8181	.Rmd	Wed, 7 Nov 2018 13:18:14 +0300	"Dilem Avşar" <d.ilume9@gmail.com>	midtermex1.Rmd	166edae078b1f9e7
+midterm	297a5df7266a26100017f465f2d4534c	.Rmd	Wed, 7 Nov 2018 13:20:45 +0300	"şeyma ASYALI" <seymanurasya@gmail.com>	quiz.Rmd	166edb076a40761d
+midterm	297a5df7266a26100017f465f2d4534c	.Rmd	Wed, 7 Nov 2018 13:21:36 +0300	"şeyma ASYALI" <seymanurasya@gmail.com>	quiz.Rmd	166edb13e19ade55
+midterm	a728709f172d27a8fb65488d839c0754	.Rmd	Wed, 7 Nov 2018 10:24:55 +0000	"Aslıhan Gizem Bilgin" <aslihangizem@hotmail.com>	Midterm.Rmd	166edb41f7d0a4e4
+midterm	2d37712e4256681280873b3598e6fd18	.rmd	Wed, 7 Nov 2018 13:24:18 +0300	"samet güler" <sametguler464@gmail.com>	mid-term.rmd	166edb3ba0791c74
+midterm	3a15d332241a87c864eb390aed4dc81a	.rmd	Wed, 7 Nov 2018 13:26:08 +0300	"Şirin Selek" <sirinselek2@gmail.com>	ŞİRİN SELEK.rmd	166edb567b92387b
+midterm	4dc91bd5e98ad957c67645017c593bc6	.Rmd	Wed, 7 Nov 2018 13:25:57 +0300	Bahadir Kasap <bahadirkasap97@gmail.com>	midterm.Rmd	166edb55969a19bb
+midterm	df262c042990019890417e302430c4d3	.rmd	Wed, 7 Nov 2018 13:29:29 +0200	Gizem Safak Baransel <gizembaransel17@gmail.com>	midterm.rmd	166edb67827af1b5
+midterm	809ac3858e7b5d9fb975351eaa893358	.rmd	Wed, 7 Nov 2018 13:26:41 +0300	"Arda Keleş" <ardakeles98@gmail.com>	answersofmidterm.rmd	166edb5e9ff9960a
+midterm	406ccc643bfb7384522f1c4bd130b81d	.Rmd	Wed, 7 Nov 2018 13:28:18 +0300	"Berfin Aşkın" <wertsee12@gmail.com>	midterm1.Rmd	166edb76389acceb
+midterm	e7c6c493a40d29029bf81e692c830108	.Rmd	Wed, 7 Nov 2018 13:27:54 +0300	Ipek h <ipek.uzun10@gmail.com>	Midterm CMB1 -İpek UZUN.Rmd	166edb71105d1d9d
+midterm	3a15d332241a87c864eb390aed4dc81a	.rmd	Wed, 7 Nov 2018 13:27:30 +0300	"Şirin Selek" <sirinselek2@gmail.com>	ŞİRİN SELEK.rmd	166edb6a6061a903
+midterm	26a1f033d23f3237a0d5bcdd9681441c	.Rmd	Wed, 7 Nov 2018 13:31:38 +0300	"Şule İnan" <suleinan.1997@gmail.com>	exam1-1.Rmd	166edba6b661783f
+midterm	87c2ad64c9607148125dae19d7fb3fdf	.Rmd	Wed, 7 Nov 2018 13:29:31 +0300	"Ahmet Bahçeci" <ahb937@gmail.com>	midterm1.Rmd	166edb8e1fa1dc8a
+midterm	ba6034a8db1d2969adf3b841da8c2afd	.Rmd	Wed, 7 Nov 2018 10:31:54 +0000	"evrim özdemir" <evrimozdemir1997@outlook.com>	midterm exam.Rmd	166edba85454cdf4
+midterm	94ea970abc58514541912d29a6165cd3	.Rmd	Wed, 7 Nov 2018 13:35:34 +0300	"Aslı aslı" <dinciasli@gmail.com>	0405160059 Aslı Dinci.Rmd	166edbe0da0197bb
+midterm	35e2342560c5dc73c853ccd3da424db5	.Rmd	Wed, 7 Nov 2018 13:35:04 +0300	"Sümeyye Onat" <sumeyyeonat97@gmail.com>	exam.Rmd	166edbd959bff779
+midterm	ac53b01655fb462dd8a3e1220fcdb98c	.Rmd	Wed, 7 Nov 2018 13:34:59 +0300	"Berfin Tunç" <berfinsirintunc@gmail.com>	exam answers1.Rmd	166edbd91a3c20d6
+midterm	bc8fac6fc906eb7031f483e7cdeeccfe	.Rmd	Wed, 7 Nov 2018 13:34:05 +0300	"Sude Dinçer" <sudedincer85@gmail.com>	midterm answers.Rmd	166edbcaa98aaed3
+midterm	5c5a66cc2ce656e148378f8095e6de6a	.Rmd	Wed, 7 Nov 2018 13:50:38 +0300	"Sedat öztürk" <osedat57@gmail.com>	cmd.Rmd	166edcbcc7da9626
+midterm	c38ee14213d9fe2a201dea7370c98565	.Rmd	Wed, 7 Nov 2018 13:56:39 +0300	MARIAM ANTAR <mariamantar@ogr.iu.edu.tr>	midterm cmb1.Rmd	166edd058494b6df
+midterm	0c5af326885922eaa6c2c91793ed34b5	.Rmd	Wed, 7 Nov 2018 13:30:59 +0300	atakan atalay <aa.mbg16@gmail.com>	midterm.Rmd	166edb9d70aa8fe8
+quiz-1	9af76a879c3118ab48a6c48832a6655f	.Rmd	Tue, 9 Oct 2018 06:25:00 +0300	"Yahya Yozbatıran" <yozbatiranyahya@gmail.com>	quiz.Rmd	16656db622c57425
+quiz-1	715c050c4df6cc0eb2e9fd6daaa72fa2	.Rmd	Mon, 8 Oct 2018 23:19:56 +0600	aziz erden <azzrdn@gmail.com>	answers.Rmd	16655567dd5e4d4b
+quiz-1	bf7aa781ce4b8a9447723f989c664f33	.Rmd	Mon, 8 Oct 2018 22:51:43 +0300	"Berfin Tunç" <berfinsirintunc@gmail.com>	answers.Rmd	166553c72ad0c8d3
+quiz-1	7ac89a6e7ea9c224a696e8b239172934	.Rmd	Mon, 8 Oct 2018 17:53:55 +0300	Esmer Zeynep Duru Badakal <ezdurubadakal@gmail.com>	answers.Rmd	166542bd001aba56
+quiz-1	ee183c0bd79c6e0e3a86451ea7e23239	.Rmd	Tue, 9 Oct 2018 11:51:17 +0000	yahya hajlawi <yahyahajlawi@hotmail.com>	yahya hajlawi quiz1.Rmd	16658aac75424280
+quiz-1	b8f19d52806a3caf8e0aac74c37d82b8	.Rmd	Tue, 9 Oct 2018 23:03:51 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	quiz.Rmd	1665a6dd8ea882f7
+quiz-1	c3ff85455568b50f9f335176ed730ad8	.rmd	Tue, 9 Oct 2018 23:43:10 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	quiz1.rmd	1665a583259a7b1b
+quiz-1	7d2678e5b6604050270971ec1fbbd8ba	.png	Tue, 9 Oct 2018 22:16:17 +0300	Zehra Kezer <zehrakezer99@gmail.com>	end of the slayt quiz .png	1665a425ec58baa0
+quiz-1	d751c0a703e9dde9216b883ef34b8b2d	.Rmd	Tue, 9 Oct 2018 18:58:27 +0000	"evrim özdemir" <evrimozdemir1997@outlook.com>	0405160079.Rmd	1665a31d9d3d4229
+quiz-1	74f8f9a9266053e7bc2ad7e6f6b427dc	.Rmd	Tue, 9 Oct 2018 21:31:40 +0300	Zehra Kezer <zehrakezer99@gmail.com>	Quiz 1.Rmd	1665a1983406f9f5
+quiz-1	2e283bdc6bc8be819a017a072ca67e4b	.rmd	Wed, 10 Oct 2018 01:39:53 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	quiz1.rmd	1665ac5348320abd
+quiz-1	dd3274349ea104369e189721a9008918	.Rmd	Wed, 10 Oct 2018 14:56:14 +0300	"Şule İnan" <suleinan.1997@gmail.com>	QUIZ1.Rmd	1665dd5d5d5980d2
+quiz-1	078d7927d535f8563f4419a1c6fa0bd9	.Rmd	Wed, 10 Oct 2018 14:50:22 +0300	"Büşra Güler" <biobg52@gmail.com>	answer.Rmd	1665dd0739c0e78a
+quiz-1	ee36948b64225c38b5f7cdb0777894fb	.Rmd	Wed, 10 Oct 2018 14:33:26 +0300	"Türkan Hazal Turan" <thazturan@gmail.com>	QuizTHT.Rmd	1665dc0f731ea0b2
+quiz-1	eceecf49f3f4ba9513794d5fab8fdda8	.Rmd	Wed, 10 Oct 2018 14:30:59 +0300	"samet güler" <sametguler464@gmail.com>	quiz.Rmd	1665dbeb56626505
+quiz-1	0fb1be9896ae4b1a64ff7ad370c5fb3a	.Rmd	Wed, 10 Oct 2018 14:23:59 +0300	Ipek Uzun <ipek.uzun10@gmail.com>	quiz.Rmd	1665db8638ab375e
+quiz-1	f649eefa8d31dd5accc251b143aa60a6	.Rmd	Wed, 10 Oct 2018 14:12:55 +0300	Farida Ismailova <ismailofarida@gmail.com>	Quiz.Rmd	1665dae29328bcc1
+quiz-1	5b120acee2feb9c97637ee4ee67e2fe5	.Rmd	Wed, 10 Oct 2018 16:53:47 +0300	"Sümeyye Onat" <sumeyyeonat97@gmail.com>	Quiz.Rmd	1665e413fa8258ce
+quiz-1	f67e9d612985ce6af92386e56674606b	.rmd	Wed, 10 Oct 2018 20:56:34 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	quiz.rmd	1665f1fbb5e6c0ec
+quiz-1	dae392c3747317189f8bd2a71dd9a196	.Rmd	Wed, 10 Oct 2018 17:42:21 +0000	"meral gök" <meralmgk@hotmail.com>	QUIZ_1.Rmd	1665f128df512e0d
+quiz-1	e6369c8eeefe397abd6601f375bb223d	.Rmd	Thu, 11 Oct 2018 00:01:25 +0300	Oguzhan Yeni <mbgoguznew@gmail.com>	quiz_1.Rmd	1665fc953065930c
+quiz-1	c052d4d87cb936d18bd203b657a065c2	.Rmd	Wed, 10 Oct 2018 20:57:13 +0000	SEVDA AYDIN <sevda-20@windowslive.com>	Quiz1.Rmd	1665fc4f4cb1a3ef
+quiz-1	3f101748b4d502040e894646b8a9de89	.Rmd	Wed, 10 Oct 2018 23:56:35 +0300	Bahadir Kasap <bahadirkasap97@gmail.com>	quız1.Rmd	1665fc46dadbf1ae
+quiz-1	fe003165f111e76c179646f2ecb5d742	.Rmd	Wed, 10 Oct 2018 23:38:49 +0300	"Ahmet Bahçeci" <ahb937@gmail.com>	c7q1.Rmd	1665fb39e89c730a
+quiz-1	b955c8bc771143eff711983ab32e3abc	.Rmd	Wed, 10 Oct 2018 23:33:14 +0300	"şeyma ASYALI" <seymanurasya@gmail.com>	answer.Rmd	1665faf1f202fd0a
+quiz-1	b955c8bc771143eff711983ab32e3abc	.Rmd	Wed, 10 Oct 2018 23:24:50 +0300	"KİNG KİTAP" <kingkitap@gmail.com>	answer.Rmd	1665fa76b8c7c045
+quiz-1	5f3b526ecfbdf1318354494aa2d60e49	.Rmd	Wed, 10 Oct 2018 19:59:58 +0000	"Aslıhan Gizem Bilgin" <aslihangizem@hotmail.com>	Quiz 1.Rmd	1665f908d17ab5dc
+quiz-1	e3d465776faa4a3e5b1be85eea794377	.Rmd	Wed, 10 Oct 2018 19:57:36 +0000	"Aslıhan Gizem Bilgin" <aslihangizem@hotmail.com>	Quiz 1.Rmd	1665f8e608101214
+quiz-1	9162103848ef3a1e36e3f63bc3336a6c	.Rmd	Wed, 10 Oct 2018 22:29:44 +0300	"Buğra Ayhan" <bugrayhan1997@gmail.com>	QuizAnswer.Rmd	1665f750531d7ce7
+quiz-1	dced4a732d2492e89e11a2d0f6895b06	.Rmd	Thu, 11 Oct 2018 04:25:28 +0300	MARIAM ANTAR <mariamantar@ogr.iu.edu.tr>	ANSWERS Q.Rmd	16660b9d6d759fb0
+quiz-1	ae7bd4483b0ef95669c380a6a9565fd3	.Rmd	Thu, 11 Oct 2018 11:18:09 +0300	Nursima Mutlu <mutlunursima37@gmail.com>	nursima.Rmd	16662348a1bf173a
+quiz-1	3976433edb73af3e7ef3b5e675056abb	.Rmd	Thu, 11 Oct 2018 10:22:32 +0300	"Aslı aslı" <dinciasli@gmail.com>	ASLI DİNCİ.Rmd	16662019836d85ac
+quiz-1	a1ac62989e8170bbcd0d77c16b2ca73d	.Rmd	Thu, 11 Oct 2018 13:02:29 +0300	<081612029@ogr.uludag.edu.tr>	computing odev.Rmd	1666293e927a73c6
+quiz-1	4edc58a21c451c2b813cfe4e6c01c688	.Rmd	Thu, 11 Oct 2018 12:38:48 +0300	atakan atalay <aa.mbg16@gmail.com>	quiz.Rmd	166627e5de1044d3
+quiz-1	493ad2fc7ca68e51d5389d05e1523032	.rmd	Thu, 11 Oct 2018 12:36:50 +0300	Ahmet Yardan <ahmetyardan7@gmail.com>	Ahmet YARDAN.rmd	166627c934ad7004
+quiz-1	493ad2fc7ca68e51d5389d05e1523032	.rmd	Thu, 11 Oct 2018 12:33:17 +0300	Ahmet Yardan <ahmetyardan7@gmail.com>	Ahmet YARDAN.rmd	16662794eebb2857
+quiz-1	c92df4e1499cbe2e2335237dee0fb1f5	.Rmd	Thu, 11 Oct 2018 12:21:42 +0300	"Gizem Kılıç" <gizemkl98@gmail.com>	quiz.Rmd	166626eb42295cf9
+quiz-1	a84ebc4823c725cc4da2a8ecc0000a53	.rmd	Thu, 11 Oct 2018 12:17:34 +0300	"Şirin Selek" <sirinselek2@gmail.com>	şirinselek.rmd	166626aecbeba6ad
+quiz-1	b34f673a80b4b1d3f4919442fce25500	.Rmd	Thu, 11 Oct 2018 11:10:45 +0000	banur tekin <banur123-@hotmail.com>	answers3.Rmd	16662d2607a6e76d
+quiz-1	0a81955335f9086f13d8e577ff634db8	.Rmd	Thu, 11 Oct 2018 14:07:56 +0300	"Sedat öztürk" <osedat57@gmail.com>	answers2.Rmd	16662cff742c8ea8
+quiz-1	8275901d25655ae3202dd6c521032400	.Rmd	Thu, 11 Oct 2018 14:04:54 +0300	Furkan Tastan <tastanfurkan.06@gmail.com>	answers1.Rmd	16662cd31b900d00
+quiz-1	0af10056e1ea3b0e0e60fc907c7e6fda	.Rmd	Thu, 11 Oct 2018 14:01:23 +0300	"Sedat öztürk" <osedat57@gmail.com>	answers.Rmd	16662c9fbf6c0376
+quiz-1	0af10056e1ea3b0e0e60fc907c7e6fda	.Rmd	Thu, 11 Oct 2018 13:57:23 +0300	Gulsum Mikayilova <gulsum.mikayilova52@gmail.com>	answers.Rmd	16662c64d82ebdfd
+quiz-1	2b5e8fe7a9b86911ec1188d108a1733f	.Rmd	Thu, 11 Oct 2018 13:53:06 +0300	"Sude Dinçer" <sudedincer85@gmail.com>	answer.Rmd	16662c2879d1bac9
+quiz-1	6803165e063ae4ca379df744ac9acc5f	.rmd	Thu, 11 Oct 2018 14:43:46 +0300	Gizem Safak Baransel <gizembaransel17@gmail.com>	quiz.rmd	16662b7f6f961eef
+quiz-1	979469c18a773493f3b45c8f490114d8	.rmd	Thu, 11 Oct 2018 13:25:54 +0300	Arda Keles <ardakeles98@gmail.com>	ardakeles.rmd	16662a97aede8746
+quiz-1	3aa7bcef1f6c5b752f9a4b7630a8e27b	.Rmd	Thu, 11 Oct 2018 15:18:40 +0300	"Rana İçöz" <h.ranaicozz@gmail.com>	computing.Rmd	1666310b9b779060
+quiz-1	3fe26006bc03c86ecc6479553fc9fe24	.Rmd	Thu, 11 Oct 2018 15:16:04 +0300	"Samet Ebinç" <smtebinc@gmail.com>	quiz.Rmd	166630e4b91396d4
+quiz-2	c270c100b06ee69a30a4092b77fe7c52	.Rmd	Mon, 22 Oct 2018 13:56:38 +0600	aziz erden <azzrdn@gmail.com>	answers.Rmd	1669b6bb2ee952b1
+quiz-2	3bb4c05e1629a890e7a1328180f41639	.jpeg	Mon, 22 Oct 2018 13:27:06 +0300	"Rana İçöz" <h.ranaicozz@gmail.com>	image1.jpeg	1669b5080ce7bb27
+quiz-2	3bb4c05e1629a890e7a1328180f41639	.jpeg	Mon, 22 Oct 2018 13:25:37 +0300	rana icoz <ranaicoz@icloud.com>	image1.jpeg	1669b4fb7284fad1
+quiz-2	1cb60ec9b4c808cd01c2cc11e0343d96	.JPG	Mon, 22 Oct 2018 13:25:25 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	IMG_8785.JPG	1669b4f07d4a7698
+quiz-2	cc46ac8b91722bf1590b1749c2591ae3	.jpg	Mon, 22 Oct 2018 13:24:58 +0300	"Macide Alpkıray" <macidealpkiray@gmail.com>	IMG_20181022_131715.jpg	1669b4e75ce53e74
+quiz-2	ec232cbd1e7fe4ae9670523428c16412	.jpg	Mon, 22 Oct 2018 13:24:35 +0300	"Çağatay Özulu" <cagatayozuluu@gmail.com>	20181022_132330.jpg	1669b4e426ba65f3
+quiz-2	1f0bcc7b2bdfcc43937afbe9044a870d	.jpg	Mon, 22 Oct 2018 13:23:04 +0300	"Berfin Aşkın" <wertsee12@gmail.com>	IMG_20181022_131838.jpg	1669b4ce11445e8b
+quiz-2	29ef7c868159401b5a1bdce96b2dd5b3	.Rmd	Mon, 22 Oct 2018 15:33:22 +0300	Gizem Safak Baransel <gizembaransel17@gmail.com>	answers.Rmd	1669b8b479b7e14f
+quiz-2	100285492df8d7405f485adcc22ebce9	.Rmd	Mon, 22 Oct 2018 14:30:33 +0300	Oguzhan Yeni <mbgoguznew@gmail.com>	answers.Rmd	1669b8b0eb3bdaf9
+quiz-2	b7ec38cd120db9625c2337d0f87adad7	.Rmd	Mon, 22 Oct 2018 14:33:38 +0300	Ipek Uzun <ipek.uzun10@gmail.com>	answer.Rmd	1669b8d7984ce2aa
+quiz-2	f835516f72f4a2db20dca319cee31041	.Rmd	Mon, 22 Oct 2018 14:39:02 +0300	"Berfin Tunç" <berfinsirintunc@gmail.com>	quiz 2 answers.Rmd	1669b9269d143e33
+quiz-2	e6314a7a9d9de19126b9448389cc0bac	.Rmd	Mon, 22 Oct 2018 14:38:15 +0300	"Buğra Ayhan" <bugrayhan1997@gmail.com>	quizANSWER 2 .Rmd	1669b91ae41ab7cc
+quiz-2	524dd121029a3d50b95ddbc4c34a328f	.rmd	Mon, 22 Oct 2018 14:40:54 +0300	"Yahya Yozbatıran" <yozbatiranyahya@gmail.com>	answers.rmd	1669b9414083d4ee
+quiz-2	cde18b55e0def0482e5130ee54128f0b	.Rmd	Mon, 22 Oct 2018 14:44:10 +0300	"Şirin Selek" <sirinselek2@gmail.com>	quiz2.Rmd	1669b971b5b802b1
+quiz-2	4c29831951cb1ad9e98c2b5a18838555	.Rmd	Mon, 22 Oct 2018 14:47:22 +0300	Zehra Kezer <zehrakezer99@gmail.com>	answers.Rmd	1669b9a1e4863881
+quiz-2	ae8ba5bc3a3795bdeeda8ee447f9fbdd	.rmd	Mon, 22 Oct 2018 14:47:13 +0300	Arda Keles <ardakeles98@gmail.com>	answers.rmd	1669b99e814ab427
+quiz-2	1552a42e9adee9bff529942f048f651b	.Rmd	Mon, 22 Oct 2018 11:50:34 +0000	"Aslıhan Gizem Bilgin" <aslihangizem@hotmail.com>	Aslıhan quiz 2.Rmd	1669b9ccb35a6bd6
+quiz-2	4c72765422f99ba27eacc1a408123f92	.Rmd	Mon, 22 Oct 2018 11:50:31 +0000	"meral gök" <meralmgk@hotmail.com>	QUIZ_2.Rmd	1669b9cc8a8ac5c7
+quiz-2	ef436f90f0f0aefede1fefbc2730bfd4	.Rmd	Mon, 22 Oct 2018 14:50:08 +0300	Nursima Mutlu <mutlunursima37@gmail.com>	nursima.Rmd	1669b9c982c6838f
+quiz-2	beb559720577fb445876ad592f01207a	.Rmd	Mon, 22 Oct 2018 14:53:51 +0300	"şeyma ASYALI" <seymanurasya@gmail.com>	answerss.Rmd	1669b9ff6f1ebc02
+quiz-2	181dc13096bb7092628bddd9c5b9b2c1	.Rmd	Mon, 22 Oct 2018 14:53:49 +0300	"Dilem Avşar" <d.ilume9@gmail.com>	finallymadeit.Rmd	1669b9fedfd06905
+quiz-2	cafbbeb587c934e4da98931c825d040e	.rmd	Mon, 22 Oct 2018 14:56:28 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	answers.rmd	1669ba261befc9e7
+quiz-2	f08c62a07ac09cf648d991e9731ff2eb	.Rmd	Mon, 22 Oct 2018 14:55:47 +0300	"Büşra Güler" <biobg52@gmail.com>	quiz 2.Rmd	1669ba1be7853880
+quiz-2	c61a8e86d67adde32857f4c3b3d10f6e	.Rmd	Mon, 22 Oct 2018 14:57:47 +0300	Bahadir Kasap <bahadirkasap97@gmail.com>	Quiz2.Rmd	1669ba3934dee442
+quiz-2	0720dcaeb3a6f88c7095199d3eecfb51	.Rmd	Mon, 22 Oct 2018 11:57:22 +0000	SEVDA AYDIN <sevda-20@windowslive.com>	SEVDA AYDIN.Rmd	1669ba3070517ca0
+quiz-2	58d9516939e1a30c318725ffbef583ad	.Rmd	Mon, 22 Oct 2018 11:57:16 +0000	"evrim özdemir" <evrimozdemir1997@outlook.com>	answes.Rmd	1669ba2f18e04c95
+quiz-2	6992a1af7f4af680b131bb1cd82f6f58	.rmd	Mon, 22 Oct 2018 14:48:45 +0300	"samet güler" <sametguler464@gmail.com>	quiz2.rmd	1669ba2cd7b327cf
+quiz-2	58929c7a735ea9e3b15ebf5b1ec43f95	.Rmd	Mon, 22 Oct 2018 14:58:07 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	answers.Rmd	1669ba3de539e28e
+quiz-2	f499409fbe02c6b0a411b6b5dccdaf9d	.Rmd	Mon, 22 Oct 2018 15:02:04 +0300	"Sümeyye Onat" <sumeyyeonat97@gmail.com>	answers.Rmd	1669ba78b8b73899
+quiz-2	be1e5ab536171d2c391e73876d87ae97	.rmd	Mon, 22 Oct 2018 15:04:50 +0300	Farida Ismailova <ismailofarida@gmail.com>	answers.rmd	1669baa049f3c0d9
+quiz-2	08e1aa5f75e4d08553a842b9a4487cb9	.Rmd	Mon, 22 Oct 2018 15:04:05 +0300	"Şule İnan" <suleinan.1997@gmail.com>	answer.Rmd	1669ba95d93ddd9d
+quiz-2	13cce4803638150bc848f5f3a37e6ea3	.Rmd	Mon, 22 Oct 2018 15:04:07 +0300	"Gizem Kılıç" <gizemkl98@gmail.com>	quiz.Rmd	1669ba95a5ae054b
+quiz-2	56a1a14644e3c3935f22d5d4eee1fb63	.Rmd	Mon, 22 Oct 2018 15:03:48 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	answers.Rmd	1669ba91bd74c18e
+quiz-2	bfc2d60fb1feee361526f1912672b2e3	.Rmd	Mon, 22 Oct 2018 15:05:57 +0300	"Ceren Çolak" <cerenncolakkx@gmail.com>	Ceren.Rmd	1669bab08d2891a4
+quiz-2	6d926a3ab51fa7411480e8de076343f2	.Rmd	Mon, 22 Oct 2018 15:05:48 +0300	"Türkan Hazal Turan" <thazturan@gmail.com>	answers.Rmd	1669baae77760a66
+quiz-2	d2360a0cd27eda5bbfc21669c18307c1	.jpeg	Mon, 22 Oct 2018 19:29:43 +0300	"Ahmet Bahçeci" <ahb937@gmail.com>	image1.jpeg	1669c9d112fb87ea
+quiz-2	03ea435d3327e525c72edadb65a8817a	.Rmd	Mon, 22 Oct 2018 21:43:01 +0400	"Ramal Hüseynov" <hramal45@gmail.com>	answers.Rmd	1669cdf9d152fab4
+quiz-2	4fe12ed259953adf305aec1dcf7e2f04	.jpeg	Mon, 22 Oct 2018 21:57:04 +0300	MARIAM ANTAR <mariamantar@ogr.iu.edu.tr>	WhatsApp Image 2018-10-22 at 21.53.46.jpeg	1669d22877b8b7a3
+quiz-2	1760f975bbc9abf1e8973e14948ac224	.Rmd	Mon, 22 Oct 2018 22:15:38 +0300	"Macide Alpkıray" <macidealpkiray@gmail.com>	answers.Rmd	1669d3483f0e55ee
+quiz-2	c7286a2e60ae6ef0510228260b516b71	.Rmd	Tue, 23 Oct 2018 00:27:24 +0300	"Berfin Aşkın" <wertsee12@gmail.com>	ouız2.Rmd	1669dad035c688e0
+quiz-2	3faccceb9e3a047311e27dd5e7659a2a	.Rmd	Wed, 24 Oct 2018 15:22:07 +0300	Ahmet Yardan <ahmetyardan7@gmail.com>	0405150053-Ahmet Yardan.Rmd	166a606953bdd0d2
+quiz-3	f920a9e39a51330b8af3e7364a425457	.Rmd	Mon, 19 Nov 2018 11:34:16 +0300	aziz erden <azzrdn@gmail.com>	answers.Rmd	1672bc016b050b2a
+quiz-3	4b53136b7f65d3c202320a7b4db2ac19	.Rmd	Mon, 19 Nov 2018 14:33:05 +0300	"Büşra Güler" <biobg52@gmail.com>	quız 3.Rmd	1672bbf02633d495
+quiz-3	984879bf55f6d8b26e264ac493c73962	.Rmd	Mon, 19 Nov 2018 14:30:51 +0300	Zehra Kezer <zehrakezer99@gmail.com>	quiz3.Rmd	1672bbcfa1eeb8fd
+quiz-3	ffd85cddacdb8144fa55df5169aadf52	.txt	Mon, 19 Nov 2018 14:29:41 +0300	"Ramal Hüseynov" <hramal45@gmail.com>	rubber-band1.txt	1672bbbe6e5184c7
+quiz-3	547c1be624d6532a2735d36a78b290c2	.Rmd	Mon, 19 Nov 2018 14:29:41 +0300	"Ramal Hüseynov" <hramal45@gmail.com>	Quiz.Rmd	1672bbbe6e5184c7
+quiz-3	679fb6ddc0ef7fcdc37a48f3873166ac	.Rmd	Mon, 19 Nov 2018 14:27:28 +0300	"Yahya Yozbatıran" <yozbatiranyahya@gmail.com>	quizz.Rmd	1672bb9d8d6f6d32
+quiz-3	4fd81a1af98227b143132c4555cd8cb5	.Rmd	Mon, 19 Nov 2018 14:26:22 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	quiz3.Rmd	1672bb8e03d2a8da
+quiz-3	c6694e8ccce91473d1146c516cbacaa1	.txt	Mon, 19 Nov 2018 14:19:24 +0300	Dilbe Bengisu Kurt <dlbbngs@gmail.com>	rubber-band.txt	1672bb278074440f
+quiz-3	c6694e8ccce91473d1146c516cbacaa1	.txt	Mon, 19 Nov 2018 14:16:58 +0300	"Macide Alpkıray" <macidealpkiray@gmail.com>	rubber-band.txt	1672bb043de619f3
+quiz-3	7a8007f32aa520b7daaea488eef95663	.txt	Mon, 19 Nov 2018 14:16:56 +0300	"Yahya Yozbatıran" <yozbatiranyahya@gmail.com>	rubber-band.txt	1672bb034efebfc9
+quiz-3	e330734e949b6448e40e2635feb343d8	.txt	Mon, 19 Nov 2018 11:11:58 +0000	banur tekin <banur123-@hotmail.com>	rubber-band.txt	1672bab8058ff930
+quiz-3	83d7a539e4d3ae1a59cec2acec556b3d		Mon, 19 Nov 2018 14:08:42 +0300	"Dilem Avşar" <d.ilume9@gmail.com>	rubber-band	1672ba8b6cd80796
+quiz-3	4d0b6b06d38302aadf483502ef43c0a8	.txt	Mon, 19 Nov 2018 11:07:40 +0300	aziz erden <azzrdn@gmail.com>	rubber-band.txt	1672ba7bdbc229e1
+quiz-3	ca48ad997c1ef9fca2a086cc1647c6c4	.txt	Mon, 19 Nov 2018 14:06:59 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	rubber-band.txt.txt	1672ba71fd2d59c0
+quiz-3	4d0b6b06d38302aadf483502ef43c0a8	.txt	Mon, 19 Nov 2018 11:06:59 +0300	"Samet Ebinç" <smtebinc@gmail.com>	rubber-band.txt	1672ba71e10f4532
+quiz-3	4d0b6b06d38302aadf483502ef43c0a8	.txt	Mon, 19 Nov 2018 11:06:15 +0300	"samet güler" <sametguler464@gmail.com>	rubber-band.txt	1672ba671812a745
+quiz-3	e330734e949b6448e40e2635feb343d8	.txt	Mon, 19 Nov 2018 14:05:33 +0300	Gulsum Mikayilova <gulsum.mikayilova52@gmail.com>	rubber-band.txt	1672ba5cf74049bc
+quiz-3	8b403aa436fe7d04f0b407856bb75deb	.txt	Mon, 19 Nov 2018 14:03:42 +0300	"Emin Gül" <nuhemingul@gmail.com>	rubber-band.txt.txt	1672ba40a4e350ca
+quiz-3	8cceebd2b3586248b9d330279d21468a	.txt	Mon, 19 Nov 2018 14:03:11 +0300	Gizem Safak Baransel <gizembaransel17@gmail.com>	quiz3.txt	1672ba3a8159ba06
+quiz-3	fcb3378438148674d40cb7c8c4ea9c11	.txt	Mon, 19 Nov 2018 14:02:53 +0300	"Sude Dinçer" <sudedincer85@gmail.com>	rubber-band.txt	1672ba3605379e32
+quiz-3	412a0ed4fa3f1734629d259b9db1341d	.txt	Mon, 19 Nov 2018 14:02:21 +0300	"Yahya Yozbatıran" <yozbatiranyahya@gmail.com>	rubber-band.txt	1672ba2d94f922f8
+quiz-3	f53e8d8c6c79aa9a2f8a312d6752a259	.Rmd	Mon, 19 Nov 2018 14:02:21 +0300	"Yahya Yozbatıran" <yozbatiranyahya@gmail.com>	quiz3.Rmd	1672ba2d94f922f8
+quiz-3	fcb3378438148674d40cb7c8c4ea9c11	.txt	Mon, 19 Nov 2018 14:00:58 +0300	"Sedat öztürk" <osedat57@gmail.com>	rubber-band.txt	1672ba1a99f3c0bf
+quiz-3	8cceebd2b3586248b9d330279d21468a	.txt	Mon, 19 Nov 2018 14:00:56 +0300	"Berfin Tunç" <berfinsirintunc@gmail.com>	quiz3.txt	1672ba19a03ba35b
+quiz-3	cfb2c4341d129b5158efae403d7f3b5b	.txt	Mon, 19 Nov 2018 14:00:50 +0300	"Arda Keleş" <ardakeles98@gmail.com>	rubber-band.txt	1672ba186f6e2b70
+quiz-3	c715c3cac13ee17c04f5b7020a67ae75	.txt	Mon, 19 Nov 2018 10:59:27 +0300	"Samet Ebinç" <smtebinc@gmail.com>	rubber-band.txt	1672ba038be8e137
+quiz-3	b071a824b7525e7916e5db55f87883fe		Mon, 19 Nov 2018 13:59:08 +0300	Gizem YILDIRIM <agizemgy@gmail.com>	documary	1672b9ff31324814
+quiz-3	2b705b0d636054a172f8fb08fa17845a	.txt	Mon, 19 Nov 2018 13:58:38 +0300	"Rana İçöz" <h.ranaicozz@gmail.com>	rubber-band.txt (1).txt	1672b9f76a4ec20b
+quiz-3	c715c3cac13ee17c04f5b7020a67ae75	.txt	Mon, 19 Nov 2018 10:57:47 +0300	"samet güler" <sametguler464@gmail.com>	rubber-band.txt	1672b9eb38e0a30a
+quiz-3	54f3faf0b3be82f1371ee902803aa61f	.txt	Mon, 19 Nov 2018 13:57:18 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	rubber-band.txt	1672b9e5692c73d6
+quiz-3	c715c3cac13ee17c04f5b7020a67ae75	.txt	Mon, 19 Nov 2018 10:56:21 +0300	aziz erden <azzrdn@gmail.com>	rubber-band.txt	1672b9d61f0e87e6
+quiz-3	8cceebd2b3586248b9d330279d21468a	.txt	Mon, 19 Nov 2018 13:55:58 +0300	"Berfin Tunç" <berfinsirintunc@gmail.com>	quiz3.txt	1672b9d0c525a76e
+quiz-3	21a2256721d8aa8b5fd38d5a2df05909		Mon, 19 Nov 2018 13:55:40 +0300	Nursima Mutlu <mutlunursima37@gmail.com>	text	1672b9cc4c9dbd02
+quiz-3	5d170fb53afeb39dcb09bc694806f1c0	.txt	Mon, 19 Nov 2018 13:53:54 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	rubber-band.txt	1672b9b2a59ef1a1
+quiz-3	5063bd58b930673fd5883d58253cdd39	.txt	Mon, 19 Nov 2018 13:53:05 +0300	"Ahmet Bahçeci" <ahb937@gmail.com>	rubber-band.txt.txt	1672b9ad062bed28
+quiz-3	490a402a8ac5e5252952f32bd0611ff2	.txt	Mon, 19 Nov 2018 13:52:56 +0300	Zehra Kezer <zehrakezer99@gmail.com>	rubber-band.txt	1672b9a4f9d175d5
+quiz-3	20e74b9ab14d122c2a6987a7feabc78b	.txt	Mon, 19 Nov 2018 10:53:10 +0000	"meral gök" <meralmgk@hotmail.com>	rubber-band.txt	1672b9a4caa8e2fc
+quiz-3	8cceebd2b3586248b9d330279d21468a	.txt	Mon, 19 Nov 2018 13:52:52 +0300	Gizem Safak Baransel <gizembaransel17@gmail.com>	quiz3.txt	1672b9a37ee9832b
+quiz-3	2819f0de3f8afc8ef00fd9d0648a6843	.txt	Mon, 19 Nov 2018 13:52:24 +0300	"Rana İçöz" <h.ranaicozz@gmail.com>	rubber-band.txt (1).txt	1672b99c78548223
+quiz-3	21b1a85929eedf1ec2e51cdd59f5724c	.txt	Mon, 19 Nov 2018 10:52:08 +0000	"evrim özdemir" <evrimozdemir1997@outlook.com>	rubber-band.txt	1672b995dfb0baa1
+quiz-3	1d6570280ae61fb019dfd3c14c7a7f0a	.txt	Mon, 19 Nov 2018 13:51:44 +0300	Ipek u <ipek.uzun10@gmail.com>	rubber-band.txt	1672b992a1663ee5
+quiz-3	c9a238ac6b1545fda4afc84198e6ff73		Mon, 19 Nov 2018 13:49:26 +0300	"Büşra Güler" <biobg52@gmail.com>	VERİLER	1672b970a0a73568
+quiz-3	5abd780ec0d84941b9b316ae790cf9e2	.txt	Mon, 19 Nov 2018 12:44:04 +0200	"Işıl Kılıçgün" <isil9504@gmail.com>	rubber-band.txt	1672b921b1c7341f
+quiz-3	9e9cf18ece59a4133c0a49787b1bb404	.txt	Mon, 19 Nov 2018 13:42:34 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	rubber-band.txt	1672b90cb2fdb997
+quiz-3	585e955cadc6e125cf866fa3fce6ead7	.txt	Mon, 19 Nov 2018 13:42:28 +0300	Ipek h <ipek.uzun10@gmail.com>	rubber-band.txt	1672b90af1f86d24
+quiz-3	abdd2d7f20565710475c5659f4fbf5c6	.txt	Mon, 19 Nov 2018 13:41:53 +0300	"Sümeyye Onat" <sumeyyeonat97@gmail.com>	rubber-band.txt	1672b8ffdeba6b26
+quiz-3	f51fec51c3d298e5e2caa08642490cc4	.txt	Mon, 19 Nov 2018 13:41:38 +0300	"Şule İnan" <suleinan.1997@gmail.com>	rubber-band.txt	1672b8fe9376d2c0
+quiz-3	8913bf510311369451c988d297108be6	.Rmd	Mon, 19 Nov 2018 11:36:23 +0000	"meral gök" <meralmgk@hotmail.com>	0405160052_quiz3.Rmd	1672bc1dca02f165
+quiz-3	56a865e5dc576a1550ae408cd8de6dca	.Rmd	Mon, 19 Nov 2018 14:34:54 +0300	Gizem YILDIRIM <agizemgy@gmail.com>	quiz3.Rmd	1672bc0afdcc0bdc
+quiz-3	a6491373d7edb5bbd308a64dbae22520	.Rmd	Mon, 19 Nov 2018 14:40:52 +0300	Nursima Mutlu <mutlunursima37@gmail.com>	quiz 3.Rmd	1672bc626f61e1ab
+quiz-3	a44155a2605fde64c896403b9638bb0f	.rmd	Mon, 19 Nov 2018 14:40:46 +0300	"Aslı Nur Akaydın" <asliakaydin225@gmail.com>	quiz3.rmd	1672bc60ec3da899
+quiz-3	d8144763098bca1f1d6834ab61d88422	.Rmd	Mon, 19 Nov 2018 14:40:00 +0300	"Betül Budak" <betul.budak.1998@gmail.com>	quiz3.Rmd	1672bc5598e10282
+quiz-3	588e78bc8b8cb57377b7fcb2bf7ccea9	.Rmd	Mon, 19 Nov 2018 13:41:44 +0200	"Işıl Kılıçgün" <isil9504@gmail.com>	answers.Rmd	1672bc6e6cd8eae6
+quiz-3	4cd54b518173af91752309db4bffec37	.txt	Mon, 19 Nov 2018 11:41:47 +0000	"Aslıhan Gizem Bilgin" <aslihangizem@hotmail.com>	rubber-band.txt	1672bc6d186c9f71
+quiz-3	3d0215f68905d9f54fbe158e4d4176b6	.Rmd	Mon, 19 Nov 2018 11:41:47 +0000	"Aslıhan Gizem Bilgin" <aslihangizem@hotmail.com>	Quiz 3.Rmd	1672bc6d186c9f71
+quiz-3	9b72e17703b2b0132f4ff0a3614a019c	.Rmd	Mon, 19 Nov 2018 14:47:08 +0300	"Dilem Avşar" <d.ilume9@gmail.com>	quiz3.Rmd	1672bcbe0bd8506a
+quiz-3	ce9a1e89c4b64117cf7d3b951f117dd2	.Rmd	Mon, 19 Nov 2018 11:45:35 +0000	"evrim özdemir" <evrimozdemir1997@outlook.com>	quiz3.Rmd	1672bca4ae07e050
+quiz-3	1414e5eca87ecff7bc75c515b606dbaa	.Rmd	Mon, 19 Nov 2018 14:48:24 +0300	"Ceren Çolak" <cerenncolakkx@gmail.com>	Quiz 3.Rmd	1672bcd07e059c4a
+quiz-3	d8707430f1e6ce268e67d9f02a45090e	.txt	Mon, 19 Nov 2018 14:47:37 +0300	Gulsum Mikayilova <gulsum.mikayilova52@gmail.com>	rubber-band.txt	1672bcc52ef2557f
+quiz-3	eeaa076bba2ba3b3ccd970a9b36942c4	.txt	Mon, 19 Nov 2018 11:49:18 +0000	banur tekin <banur123-@hotmail.com>	rubber-band.txt	1672bcdac2c380d7
+quiz-3	4cd54b518173af91752309db4bffec37	.txt	Mon, 19 Nov 2018 14:48:47 +0300	"Ceren Çolak" <cerenncolakkx@gmail.com>	rubber-band.txt	1672bcd612162a55
+quiz-3	676c851aebf906a617330a0f0b382e4e	.Rmd	Mon, 19 Nov 2018 14:51:24 +0300	"Berfin Aşkın" <wertsee12@gmail.com>	berfin.Rmd	1672bcfc82b053aa
+quiz-3	d66404348a8cb8cd613a5d8c5c383fc2	.Rmd	Mon, 19 Nov 2018 14:54:33 +0300	"samet güler" <sametguler464@gmail.com>	answer.Rmd	1672bd2ab424d50c
+quiz-3	249f621e269a611437ec7602d4f0333a	.Rmd	Mon, 19 Nov 2018 14:54:17 +0300	"Sümeyye Onat" <sumeyyeonat97@gmail.com>	Quiz 3.Rmd	1672bd246033bde9
+quiz-3	721e51acb487c75127b76365f6afbe50	.Rmd	Mon, 19 Nov 2018 14:55:51 +0300	"Özlem Bakangil" <bakangilozlem@gmail.com>	Quiz3.Rmd	1672bd3dc97678c7
+quiz-3	2a54e3369964b1beb8a026c6ec4e5475	.Rmd	Mon, 19 Nov 2018 14:58:26 +0300	Ipek u <ipek.uzun10@gmail.com>	quiz 3 answer.Rmd	1672bd63f3b075a8
+quiz-3	a7a6a2d7c52b34f8127ac1f4f78d4ec8	.Rmd	Tue, 20 Nov 2018 13:00:21 +0300	Gulsum Mikayilova <gulsum.mikayilova52@gmail.com>	quiz3.Rmd	167309076f6af33e
+quiz-3	8559ab58708c33d4ec2621b7e76be117	.Rmd	Tue, 20 Nov 2018 12:58:16 +0300	"Sude Dinçer" <sudedincer85@gmail.com>	quiz3.Rmd	167308e8fd552335
+quiz-3	fb23ec8e849c65d984b155024e647c03	.Rmd	Tue, 20 Nov 2018 12:54:57 +0300	Gulsum Mikayilova <gulsum.mikayilova52@gmail.com>	quiz3.Rmd	167308b864c0c3e8
+quiz-3	fb23ec8e849c65d984b155024e647c03	.Rmd	Tue, 20 Nov 2018 12:53:07 +0300	"Sedat öztürk" <osedat57@gmail.com>	quiz3.Rmd	1673089d9c236fd9
+quiz-3	6af2d1d0705d451d252f5e7645043878	.Rmd	Mon, 19 Nov 2018 22:15:13 +0300	"Şule İnan" <suleinan.1997@gmail.com>	Quiz 3.Rmd	1672d660c32ffe8f

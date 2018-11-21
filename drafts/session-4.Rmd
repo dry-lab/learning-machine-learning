@@ -1,8 +1,8 @@
 ---
-title: "LML session 4"
+title: "LML Session 4: Distances, hierarchical clustering"
 author: "Andres Aravena"
 date: "2018-10-22 15:58"
-publish: true
+published: true
 output: ioslides_presentation
 ---
 

@@ -1,0 +1,147 @@
+---
+title: "LML Session 6: Tidy data"
+author: "Andres Aravena"
+date: "21/11/2018"
+output:
+  ioslides_presentation:
+    logo: ../../../images/dry-lab.svg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, dev.args=list(bg="transparent"))
+knitr::opts_knit$set(rooo.dir="~/Web/blog/_slides/2018/dry-lab")
+```
+
+## Data tidying
+One of the important cleaning processes in the practice of data science
+
+*Tidy data sets* have structure and working with them is easy
+
+They are easy to manipulate, model and visualize
+
+Tidy data sets are arranged such that each variable is a column and each observation (or case) is a row
+
+## Characteristics
+
++ Each variable you measure should be in one column.
++ Each different observation of that variable should be in a different row.
++ There should be one table for each "kind" of variable.
++ If you have multiple tables, they should include a column in the table that allows them to be linked.
+
+::: source
++ Jeff Leek, "The Elements of Data Analytic Style" (2015)
++ Wikipedia
+:::
+
+## Onur's data {.no-gap}
+```{r}
+heroes <- read.csv("heroes.txt", row.names=1, stringsAsFactors=FALSE)
+plot(Int ~ Agi, data=heroes, col="black", bg=as.factor(Main), pch=21)
+```
+
+## What is the question?
+
+We know the classes for this sample
+
+We can ask two questions
+
+1. What is the class of a new observation?
+
+2. What is the rule that defines each class?
+
+## Data for Training
+We use our data to *train* a machine learning method
+
+Typical data is a numeric matrix and a vector of *labels*
+
+For each individual we have several *features*. This is one row in the matrix.
+
+We also have a *label* for each individual. This is how we teach the system.
+
+## Fitting and over-fitting
+*Fitting* is the process that the machine does to learn the relationship between *features* and *labels*
+
+We want to find a general rule from a few examples
+
+The problem is that sometimes we learn too much about the sample, and we cannot generalize
+
+When that happens, we say that the model is _over-fitted_
+
+## How to avoid over-fitting
+We need to measure the quality of the learning using **different** data
+
+We have to separate our samples in two groups:
+
++ A training set
++ A test set
+
+That means that we do not use all the data for training. We need even more data
+
+## Extreme case: Leave-one-out
+
++ We choose one sample as "test".
+    + We use the rest for training. 
++ Then we test with the single sample.
++ If the predicted label is correct, we are fine
+
+Then we repeat all the process.
+
+The quality of the method depends on the rate-of-success
+
+## A first method: K nearest neighbors
+We have $n$ samples to train ($x_1,\ldots,x_n$) and one to test ($x_0$)
+
+each one has a label $y_1,\ldots,y_n$, and $y_0$
+
+We measure the distance $d(x_0,x_i)$ for all $i\in \{1,\ldots,n\}$
+
+We choose the $k$ elements closer to $x_0$, and we *vote* for the most frequent label. That is the predicted label $\hat{y_0}$
+
+
+## Example with CMB1
+```{r}
+md5 <- read.csv("CMB1-2018-md5.tsv", sep="", stringsAsFactors=FALSE)
+delivery <- read.delim("CMB1-2018-log.txt", header=FALSE,
+                       stringsAsFactors=FALSE)
+colnames(delivery) <- c("event", "md5", "ext", "datetime","email",
+                        "filename", "mesg_id")
+delivery$when <- strptime(delivery$datetime, 
+                          format="%a, %e %b %Y %H:%M:%S %z")
+combined <- merge(delivery, md5)[, c("number","event","when")]
+combined$secs <- combined$when - min(combined$when)
+```
+
+## Example 
+
+```{r message=FALSE}
+library(reshape2)
+pivot <- acast(combined, number~event, fun.aggregate = min,
+               value.var = "secs")
+delivery_delay <- sweep(pivot, 2, apply(pivot, 2, min))
+delivered <- data.frame(Numara=rownames(delivery_delay),
+                        1 - is.infinite(delivery_delay))
+delivery_delay <- data.frame(Numara=rownames(delivery_delay),
+                             1 - is.infinite(delivery_delay))
+```
+
+## Example 
+```{r message=FALSE}
+# midterm <- read.csv("CMB1-2018 - Midterm.csv", skip = 2, stringsAsFactors = FALSE)
+library(readr)
+midterm <- read_csv("CMB1-2018 - Midterm.csv", skip = 2)[1:63,]
+colnames(midterm)[19] = "avg"
+```
+
+## Example 
+```{r}
+attendance <- read_csv("CMB1-2018 - Summary.csv", 
+    col_types = cols(`%` = col_skip(), Sıra = col_skip()),
+    skip = 2, n_max=70)[,-(15:28)]
+```
+
+## Example 
+```{r}
+m <- merge(midterm[, c("Numara", "avg")], attendance[,-(1:2)])
+m <- merge(m, delivered, all.x = TRUE)
+m[is.na(m)]  <- 0
+```

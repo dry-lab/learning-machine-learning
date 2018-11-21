@@ -1,0 +1,103 @@
+---
+title: "LML Session 5: Clustering heroes and text"
+author: "Andres Aravena"
+date: "2018-10-22 15:58"
+published: true
+output: ioslides_presentation
+---
+
+## Clustering
++ unsupervised learning
++ finding "natural" structure in data
++ we have seen 2 strategies
+    + K-means
+    + Hierarchical clustering
+
+## We can answer two questions
++ what are the groups
+    + Which samples are similar to each other
++ If we get a new sample, to what group shall we asign it
+
+## K-means
++ each sample $x^{(i)}$ **must be a numeric vector**
++ We need to choose the number of clusters $k$
++ The method produces $k$ vectors $C^{(j)}$ that are the center of each cluster
++ Each sample $i$ is assigned to the nearest center
+$$i\in I_j\iff\Vert x^{(i)}-C^{(j)}\Vert\leq\Vert x^{(i)}-C^{(j')}\Vert \quad\forall j'$$
++ the centers $C^{(j)}$ are chosen to minimize
+$$\sum_{i\in I_j}\Vert x^{(i)}-C^{(j)}\Vert^2$$
+
+## Hierarchical clustering
++ Samples can be non-numeric
++ we only need *distance* between samples
+    + even less, it is enough a *dissimilarity*
++ There are several ways to calculate distances
+    + between two samples
+    + between a sample and a cluster
+    + between two clusters (i.e. linkage)
+
+## Typical distances between samples
++ Euclidean
++ Manhattan
++ Maximal
++ inverse correlation, i.e. $1-r$
++ Hamming distance
++ Jacquard distance
++ Tanamoto distance
++ Edit distance (Levenshtein)
+ 
+## Typical linkage rules
++ Average: mean distance
+$$D(A,B)=\frac{1}{n_A n_B}\sum_{i\in I_A}\sum_{j\in I_B}\Vert x^{(i)} - x^{(j)}\Vert$$
++ Complete: maximal distance
+$$D(A,B)=\max_{i\in I_A,j\in I_B}\Vert x^{(i)} - x^{(j)}\Vert$$
++ Single: minimal distance
+$$D(A,B)=\min_{i\in I_A,j\in I_B}\Vert x^{(i)} - x^{(j)}\Vert$$
++ Ward: ???
+
+## Step 1: Get clean data
+This step is more and more important
+
+We want a matrix (or data frame) 
+
++ one sample in each row
++ one variable in each column
+
+Most methods cannot handle missing data (`NA`)
+
+## Onur's Heroes
+In the example below, I have 3 categories: `tanks`, `warriors`, `mages`. 
+
+Each is presented according to their `Roles`, `Heroes`, 
+`Main Hero Stats` (Strength = `Str`, Agility = `Agi`, Intelligence = `Int`), `Armor`, etc.
+
+Tanks have the highest `Str`, `Health` and `Armor` points - Fights at the front line
+
+## Tank {.no-gap}
+```{r echo=FALSE}
+library(knitr)
+library(kableExtra)
+library(magrittr)
+
+tanks = data.frame(Heroes=c("Astaroth", "Aurora","Cleaver","Chabba","Galahad",
+                        "Lilith","Luther","Ziri","Rufus"),
+         Role=c("Tank, Support","Tank","Tank,Control","Tank,Control","Tank",
+                "Tank, Control","Tank, Control","Tank,Support","Tank"),
+         Main=c("Strength", "Strength", "Strength","Strength",
+                   "Strength", "Strength", "Strength","Strength", "Strength"),
+         Int=c(3402,3644,2742,2777,2533,3010,3036,2620,3476),
+         Agi=c(3065,3093,3257,3032,3058,2625,3301,2750,2442),
+         Str=c(13019,12580,13018,13155,13862,13008,13084,
+            14055,13686),
+         Health=c(697420,813094,773487,725212,837668,699467,
+               704542,957220,919144),
+         PA=c(21949,20290,43967,45359,47010,22945,45496,38288,18620),
+         MA=c(42667,35768,8226,8331,7599,50546,9108,7860,60593),
+         Armor=c(34874,5163,27104,31394,25369,23199,38068,27467,11457),
+         MD=c(25827,5224,10752,26263,19948,6589,20918,20061,15121),
+         Dodge=c(NA, 9795, NA, NA, NA, NA, NA, NA, NA),
+         Vamp=c(NA, NA, 0.55, NA, 0.45, NA, NA, NA, NA),
+         Crit=c(NA, NA, NA, NA, NA, 4665, NA, NA, NA),
+         MP=c(NA, 12490, NA, NA, NA, 22700, NA, NA, NA))
+kable(tanks) %>% kable_styling(bootstrap_options = "striped")
+```

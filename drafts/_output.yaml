@@ -1,0 +1,13 @@
+ioslides_presentation:
+  logo: ../../../images/IU_Logo_128.png
+  self_contained: no
+  widescreen: yes
+  css:
+    - ../../../css/ioslides-extra.css
+    - copyright.css
+  highlight: tango
+  incremental: no
+  xtemplate: ../../../_code/io-template.html
+rmdshower::shower_presentation:
+  self_contained: no
+  
